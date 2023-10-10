@@ -1,0 +1,5 @@
+Objetivo: transformar as tabelas de cargas em tabelas de produção, sendo que essa tabela de produção não irá sofrer mais alterações
+em sua estrutura, será conectada a uma view e feito a geração de um relatório (Conexão do SQL + Excel)
+
+Video: https://www.youtube.com/watch?v=8f9eeVS8-Zw
+
